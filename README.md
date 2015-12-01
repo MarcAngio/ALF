@@ -1,4 +1,4 @@
 # ALF
 ALF -  Admin Login Finder 
 
-Simple script made in python for find the admin login page
+Find the admin login page with this simple tool made in python.
